@@ -1,0 +1,40 @@
+.empty {
+  width: 100%;
+}
+.total {
+  color: #dd3333;
+}
+.total:hover {
+  color: black;
+}
+.btns button {
+  padding: 3px 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+.icon-cart {
+  color: black;
+}
+.icon-cart-x{
+    color: black;
+}
+.btns button:hover>.icon-cart  {
+  color: white;
+}
+.btn-x:hover {
+  background: red;
+}
+.btn-plus:hover{
+    background: green;
+}
+.btns {
+  display: flex;
+  justify-content: space-around;
+}
+.shopcart {
+  text-align: center;
+}
+.total-price h6{
+    color: #dd3333;
+}

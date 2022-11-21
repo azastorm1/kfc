@@ -1,0 +1,54 @@
+nav {
+  text-align: end;
+  margin-top: 20px;
+}
+.logo img {
+  text-align: center;
+  width: 10%;
+}
+.logo {
+  text-align: center;
+}
+.navbar-nav a {
+  text-decoration: none;
+  color: #dd3333;
+  font-weight: 700;
+}
+.navbar-nav a:hover {
+  text-decoration: none;
+  color: lightcoral;
+}
+.navbar-nav {
+  margin-top: 30px;
+  gap: 50px;
+  text-align: center;
+}
+
+header {
+  margin-top: 5%;
+  text-align: center;
+}
+.en-kfc {
+  font-weight: 700;
+}
+.red {
+  margin-top: 3%;
+  color: #dd3333;
+}
+header p {
+  margin-top: 3%;
+}
+.cart {
+  border: none;
+  padding: 15px 15px 15px 15px;
+  font-size: 40px;
+  position: absolute;
+  border-radius: 8px;
+  top: 8%;
+  left: 80%;
+  background: white;
+}
+.cart:hover {
+  border: none;
+  box-shadow: lightgrey 4px 4px 4px 4px;
+}
